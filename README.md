@@ -16,8 +16,6 @@ Requisitos
 
 Certifique-se de ter Python instalado em sua máquina. Você pode instalar as dependências necessárias executando:
 
-bashCopy code
-
 `pip install pandas openpyxl`
 
 Uso
@@ -25,19 +23,13 @@ Uso
 
 1.  Clone o repositório:
 
-bashCopy code
-
 `git clone https://github.com/fatareli/macro-oi-360.git`
 
 2.  Navegue até o diretório do projeto:
 
-bashCopy code
-
 `cd macro-oi-360`
 
 3.  Execute o aplicativo:
-
-bashCopy code
 
 `python main.py`
 
